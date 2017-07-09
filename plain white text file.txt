@@ -1,1 +1,7 @@
+#more ideas
+-maybe some actual ruby
+-work on that 4chan ruby scraper for twitter
+-is there an actual gem for 4chan that works/and or current?
+-thanks
+
 plain white text file
