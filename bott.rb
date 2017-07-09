@@ -1,4 +1,4 @@
-require 'cinch'
+require 'cinch' # someday learn how to make your own dang plugins jeez like for real
 require 'cinch/plugins/haiku'
 
 bot = Cinch::Bot.new do
