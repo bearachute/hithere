@@ -1,5 +1,10 @@
 a buncha ruby stuff
-[google](http://www.google.com)
+:poop:
+
+:thumbsup: someday there will be a 4chan scaper/twitterbot ala what i had for /co/ a long time ago
+
+and maybe who knows, it's _the future_
+
 
 there's nothing here for rels :smile:
 
